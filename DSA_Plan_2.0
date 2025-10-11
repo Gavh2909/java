@@ -1,0 +1,166 @@
+# 🧩 **Phase 1 (Days 1–30) — Core Revision + 100 LeetCode Problems**
+
+### 🎯 **Goal**
+
+Re-master the foundations (Arrays, Strings, Linked List, Stack, Queue, Recursion)
+and solve **~100 problems** (60 Easy + 40 Medium).
+
+---
+
+### 🗓️ **Weekly Plan**
+
+#### **Week 1 → Arrays & Strings (20 Problems)**
+
+**Concepts:**
+
+* Two pointers, sliding window, prefix/suffix sums
+* Sorting + hashing patterns
+* Common string manipulations
+
+**LeetCode Set:**
+`Two Sum`, `Best Time to Buy and Sell Stock`, `Move Zeroes`, `Rotate Array`,
+`Product of Array Except Self`, `Container With Most Water`,
+`Valid Palindrome`, `Group Anagrams`, `Longest Substring Without Repeating Characters`, `Subarray Sum Equals K`.
+
+---
+
+#### **Week 2 → Linked List + Recursion Basics (20 Problems)**
+
+**Concepts:**
+
+* Singly/Doubly list operations
+* Slow–fast pointers, reversal, merge, middle, cycle detection
+* Recursive list problems
+
+**LeetCode Set:**
+`Reverse Linked List`, `Merge Two Sorted Lists`, `Linked List Cycle`,
+`Remove Nth Node from End`, `Add Two Numbers`,
+`Palindrome Linked List`, `Copy List with Random Pointer`,
+`Swap Nodes in Pairs`, `Sort List`, `Reorder List`.
+
+---
+
+#### **Week 3 → Stack & Queue + Recursion Applications (20 Problems)**
+
+**Concepts:**
+
+* Stack for expression & next-greater problems
+* Queue / Deque for sliding window
+* Recursion for backtracking (simple level)
+
+**LeetCode Set:**
+`Valid Parentheses`, `Min Stack`, `Next Greater Element I`,
+`Daily Temperatures`, `Evaluate Reverse Polish Notation`,
+`Implement Queue Using Stacks`, `Sliding Window Maximum`,
+`Generate Parentheses`, `Subsets`, `Combination Sum`.
+
+---
+
+#### **Week 4 → Collections + HashMap Patterns + Mixed Recursion (25 Problems)**
+
+**Concepts:**
+
+* HashMap/Set, sorting logic, frequency counters
+* Recursion patterns like permutations, subsets II, word search
+
+**LeetCode Set:**
+`Top K Frequent Elements`, `Majority Element`, `Intersection of Two Arrays`,
+`Contains Duplicate`, `Valid Anagram`, `Find All Anagrams in a String`,
+`Letter Combinations of a Phone Number`, `Permutations`, `Word Search`,
+`Combination Sum II`.
+
+---
+
+#### **Last 3–4 Days → Revision + Timed Mocks (10–15 Problems)**
+
+* 5 mocks × 5 problems each (mix topics).
+* Target: 1 hour/mock.
+* Review wrong attempts deeply using discussion tabs.
+
+---
+
+### ✅ **End-of-Phase 1 Outcome**
+
+* 100 LeetCode problems solved.
+* Excellent grip on Arrays, Strings, Linked List, Stack, Queue, and Recursion.
+* Ready for Trees, Graphs, Heap, and DP.
+
+---
+
+## 🧠 **Phase 2 (Days 31–60) — Advanced DSA + Problem Depth**
+
+### 🎯 **Goal**
+
+Learn the remaining major DSA topics + develop advanced problem-solving intuition.
+
+---
+
+### 🗓️ **Weekly Plan**
+
+#### **Week 5 → Binary Tree & BST (20 Problems)**
+
+**Concepts:**
+DFS/BFS traversals, height/diameter, lowest common ancestor, BST search/insertion.
+
+**LeetCode Set:**
+`Binary Tree Inorder Traversal`, `Maximum Depth of Binary Tree`,
+`Symmetric Tree`, `Diameter of Binary Tree`,
+`Path Sum`, `Invert Binary Tree`,
+`Lowest Common Ancestor of BST`, `Validate BST`.
+
+---
+
+#### **Week 6 → Heaps / Priority Queue / Greedy (15–20 Problems)**
+
+**Concepts:**
+Min-heap vs max-heap, k-largest, heap sort, frequency map + heap, greedy interval patterns.
+
+**LeetCode Set:**
+`Kth Largest Element in Array`, `Top K Frequent Words`,
+`Merge K Sorted Lists`, `Find Median from Data Stream`,
+`Reorganize String`, `Task Scheduler`.
+
+---
+
+#### **Week 7 → Graphs (20 Problems)**
+
+**Concepts:**
+Adjacency list/matrix, BFS/DFS traversal, topological sort, union-find, shortest path.
+
+**LeetCode Set:**
+`Number of Islands`, `Clone Graph`, `Course Schedule I & II`,
+`Rotting Oranges`, `Word Ladder`, `Graph Valid Tree`,
+`Find Center of Star Graph`, `Network Delay Time`.
+
+---
+
+#### **Week 8 → Dynamic Programming + Revision (20 Problems)**
+
+**Concepts:**
+1-D DP, 2-D DP, tabulation vs recursion, pattern identification.
+
+**LeetCode Set:**
+`Climbing Stairs`, `House Robber`, `House Robber II`,
+`Coin Change`, `Longest Increasing Subsequence`,
+`Unique Paths`, `Minimum Path Sum`, `Edit Distance`, `Partition Equal Subset Sum`.
+
+---
+
+### ✅ **End-of-Phase 2 Outcome**
+
+* Mastery of all key DSA topics.
+* ~200 LeetCode problems solved (Easy + Medium + a few Hard).
+* Strong readiness for top-tier interview rounds.
+
+---
+
+## 🧠 **Bonus Tips**
+
+1. **Daily routine:**
+
+   * 1 hour → concept reading/revision
+   * 2 hours → LeetCode practice
+   * 15 min → analysis/reflection
+2. **Track progress:** Use a Google Sheet or Notion board.
+3. **One day per week off:** review solutions + notes only.
+4. **Focus on patterns, not repetition.**
